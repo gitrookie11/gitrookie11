@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gitrookie11
+- 👋 Hi, I’m Drishti
 - 👀 I'm aspiring to be an AI Engineer
 - 🌱 I’m currently learning C & Java
 
